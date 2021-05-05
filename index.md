@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<img src="files/1492292_10201752607844630_925792766_o.jpg" width = "600px" height = "800px"></img>
+<img src="files/1492292_10201752607844630_925792766_o.jpg" width = "600px" height = "700px"></img>
 You can use the [editor on GitHub](https://github.com/reinierprosee/reinierprosee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
