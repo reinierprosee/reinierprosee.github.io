@@ -1,4 +1,5 @@
-## Welcome to Reinier's Virtual World! Happy birthday! :)
+## Welcome to Reinier's Virtual World! 
+## Happy birthday! :)
 
 
 <img src="files/1492292_10201752607844630_925792766_o.jpg" width = "600px" height = "700px">
